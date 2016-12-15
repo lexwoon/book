@@ -1,2 +1,2 @@
 # book
-angular2
+angular2 and typescript
