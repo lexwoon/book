@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935728002900",
+    "firebase_url": "https://books-211c0.firebaseio.com",
+    "project_id": "books-211c0",
+    "storage_bucket": "books-211c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935728002900:android:52979ff59cb730ed",
+        "android_client_info": {
+          "package_name": "com.book.woonchienheng.booksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935728002900-jegofvqrso7i594cgf1a8bo32gml2ibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdpV5OkWgDbnhRwAITlGMa-y8oFNCYMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
